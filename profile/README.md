@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">We are DoubleByte-Software</p>
+<p align="left">We are an organization dedicated to providing technological solutions designed to optimize your company's processes and enhance the quality of the services it offers. We specialize in developing innovative tools that streamline operations, allowing your company to achieve a higher level of efficiency and excellence in service.</p>
 
 ###
 
@@ -10,11 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
+<p align="left"> Creating web and desktop applications, as well as enterprise resource planning solutions for inventory, sales, and financial management
+</p>
+  <br>
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">Our code Stack</h2>
 
 ###
 
